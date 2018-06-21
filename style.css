@@ -1,0 +1,59 @@
+/* style.css */
+body{
+  text-align: center;
+  background: #B1C0E0;
+  font-size: 100%;
+  font-family: Opensans;
+}
+
+h1{
+font-family: Signika-Semibold;
+font-size: 3.5rem;
+color: #003549;
+letter-spacing: -0.44px;
+line-height: 56px;
+text-decoration: underline white;
+}
+
+#header{
+  text-align: center;
+  padding: 50px 0px 50px 0px;
+  color: white;
+}
+
+#footer{
+  height: 265px;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 120px;
+  background-image: url("file:///Users/Joeun/Desktop/side%20project_ca/images/oval.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  color: white;
+}
+
+.card{
+  display: block;
+  position: relative;
+  z-index: 2;
+  padding: 10px 0px 0px 0px;
+}
+
+.center{
+  display: block;
+  position: relative;
+  z-index: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:0px;
+  width: 50%;
+}
+
+#footer a {
+  color: #879FCF;
+  font-size: 2.5rem;
+}
+
+#footer a:hover {
+  color: white;
+}
