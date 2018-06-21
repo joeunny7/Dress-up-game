@@ -1,6 +1,6 @@
 # Project Title
 
-A template to make simple dress-up game 
+A template to make simple dress-up game - https://joeunny7.github.io/Dress-up-game/
 
 ## Getting Started
 
