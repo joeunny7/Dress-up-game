@@ -1,6 +1,6 @@
 # Project Title
 
-A template to make simple dress-up game :airplane::hotel::palm_tree::bikini::wine_glass: - https://joeunny7.github.io/Dress-up-game/
+A template to make simple dress-up game :palm_tree::bikini::wine_glass: - https://joeunny7.github.io/Dress-up-game/
 
 ## Getting Started
 
@@ -9,7 +9,6 @@ As a product designer in hospitality software company, I would like to try fun p
 ## Authors
 
 * **Joeun Lee** - *Initial work* - [Joeunny7](https://github.com/joeunny7)
-
 
 ## License
 
