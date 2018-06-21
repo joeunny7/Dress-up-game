@@ -22,13 +22,8 @@ text-decoration: underline white;
 }
 
 #footer{
-  height: 265px;
   font-size: 2rem;
   text-align: center;
-  padding-top: 120px;
-  background-image: url("file:///Users/Joeun/Desktop/side%20project_ca/images/oval.png");
-  background-repeat: no-repeat;
-  background-position: bottom center;
   color: white;
 }
 
@@ -47,6 +42,11 @@ text-decoration: underline white;
   margin-right: auto;
   margin-bottom:0px;
   width: 50%;
+}
+
+.footer_text{
+padding: 60px;
+
 }
 
 #footer a {
